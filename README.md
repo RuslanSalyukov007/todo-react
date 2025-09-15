@@ -1,6 +1,6 @@
 # Todo App React 
 
-Todo App React - это мини приложение созданное на React JS, с использованием препроцессора SCSS
+Todo App React - это простое мини приложение, созданное на React JS, в целях обучения React JS
 
 Технологии:
 
