@@ -1,12 +1,11 @@
 # Todo App React 
 
-Todo App React - это простое мини приложение, созданное на React JS, в целях обучения React JS
+Todo App React - это простое мини приложение, было разработано на фреймворке React JS, в целях обучения React
 
 Технологии:
 
 - HTML,
 - SCSS,
 - React JS
-
 
 [Смотреть демо](https://RuslanSalyukov007.github.io/todo-app-react/)
