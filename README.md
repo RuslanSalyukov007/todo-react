@@ -1,6 +1,6 @@
-# Todo App React 
+# Simple Todo List App in React
 
-Todo App React - это простое мини приложение, было разработано на React JS, в целях обучения React
+Simple Todo List App in React - это простое мини приложение, было реализовано на React JS, в целях обучения React
 
 Технологии:
 
