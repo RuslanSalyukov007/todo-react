@@ -8,4 +8,4 @@ Simple Todo List App - это простое мини приложение, бы
 - SCSS,
 - React JS
 
-[Смотреть демо](https://RuslanSalyukov007.github.io/todo-app-react/)
+[Смотреть демо](https://RuslanSalyukov007.github.io/todo-react/)
